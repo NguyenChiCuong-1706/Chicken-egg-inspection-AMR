@@ -1,0 +1,1 @@
+/home/cuong/ros2_ws/build/myrobot/ament_cmake_environment_hooks/local_setup.bash

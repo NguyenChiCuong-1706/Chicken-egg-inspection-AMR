@@ -1,0 +1,8 @@
+source;share/myrobot/hook/cmake_prefix_path.ps1
+source;share/myrobot/hook/cmake_prefix_path.dsv
+source;share/myrobot/hook/cmake_prefix_path.sh
+source;share/myrobot/local_setup.bash
+source;share/myrobot/local_setup.dsv
+source;share/myrobot/local_setup.ps1
+source;share/myrobot/local_setup.sh
+source;share/myrobot/local_setup.zsh

@@ -1,0 +1,1 @@
+/home/cuong/ros2_ws/src/myrobot/launch/launch_sim_realmodel.launch.py

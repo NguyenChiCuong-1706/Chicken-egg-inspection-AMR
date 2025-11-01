@@ -1,0 +1,12 @@
+# Ignore everything by default
+/*
+
+# Allow specific directories
+!/src/
+!/build/
+!/install/
+!/log/
+
+# Ensure .gitignore itself is not ignored
+!/.gitignore
+

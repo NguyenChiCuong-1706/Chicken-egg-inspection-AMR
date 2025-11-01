@@ -1,0 +1,67 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cuong/ros2_ws/build/myrobot
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/config/empty.yaml
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/config/gazebo_params.yaml
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/config/mapper_params_online_async.yaml
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/config/my_controllers.yaml
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/config/myrobot.rviz
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/config/view_bot.rviz
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/launch/launch_sim.launch.py
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/launch/rsp.launch.py
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/worlds/myworld.world
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/camera.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/depth_camera.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/gazebo_control.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/inertial_macros.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/lidar.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/BLC_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/BRC_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/FLC_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/FRC_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/LD_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/Lidar_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/RD_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/meshes/base_link.STL
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/robot.urdf.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/robot_core.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/robot_core_test.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/description/ros2_control.xacro
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/ament_index/resource_index/package_run_dependencies/myrobot
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/ament_index/resource_index/parent_prefix_path/myrobot
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.sh
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/environment/path.sh
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/environment/path.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/local_setup.bash
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/local_setup.sh
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/local_setup.zsh
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/local_setup.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/package.dsv
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/ament_index/resource_index/packages/myrobot
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/cmake/myrobotConfig.cmake
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/cmake/myrobotConfig-version.cmake
+-- Symlinking: /home/cuong/ros2_ws/install/myrobot/share/myrobot/package.xml

@@ -1,0 +1,6 @@
+Invoking command in '/home/cuong/ros2_ws/build/myrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cuong/ros2_ws/src/myrobot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cuong/ros2_ws/install/myrobot
+Invoked command in '/home/cuong/ros2_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cuong/ros2_ws/src/myrobot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cuong/ros2_ws/install/myrobot
+Invoking command in '/home/cuong/ros2_ws/build/myrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cuong/ros2_ws/build/myrobot -- -j12 -l12
+Invoked command in '/home/cuong/ros2_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cuong/ros2_ws/build/myrobot -- -j12 -l12
+Invoking command in '/home/cuong/ros2_ws/build/myrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cuong/ros2_ws/build/myrobot
+Invoked command in '/home/cuong/ros2_ws/build/myrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cuong/ros2_ws/build/myrobot
